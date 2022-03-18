@@ -1,4 +1,4 @@
-# practice-1
+# self-publicity-app
 
 ## Project setup
 ```
