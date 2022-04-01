@@ -99,7 +99,7 @@ export default defineComponent({
             "Chat bot using LINE bot web hook API and node.js. This project was created independently.",
         },
         {
-          url: "https://github.com/muazhari/fep-bot",
+          url: "https://github.com/OLTeam-go/sea-store-backend-users",
           name: "SEA Store - Backend User",
           description:
             "SEA Store App Backend for users services using Spring Boot. This project was created together as a team in Compfest 12 Software Engineering Academy Event.",
