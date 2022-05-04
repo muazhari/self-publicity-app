@@ -11,7 +11,7 @@
         <div class="section-1-2 flex-box">
           <div class="title">Muhammad Kharisma Azhari</div>
           <div class="sub-title">Software Engineer</div>
-          <div class="content">Yes, come here! Good for you! Let's be curious to me! 🥳</div>
+          <div class="content">Yes, come here! Good for you! 🥳</div>
         </div>
       </div>
       <div class="section-2 flex-box">
